@@ -1,2 +1,34 @@
 Head First Java Chapter 01
 =====
+This is the first Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, This markdown file is my notes for the first chapter, not sure if any copyright issues are there.
+
+Syntax Fun:
+---------
+- Each statement must end in a semi colon.
+
+  	```java
+		x = x + 1;
+	```
+- A single line comment begins with two forward slashes.
+
+	```java
+		//this line is a comment
+	```	
+- Most white space doesn't matter.
+
+	```java
+		x = x       +            1;
+	```	
+- Variables are declared with a **name** and a **type**.
+
+	```java
+		int weight;
+		//type: int, name:weight
+	```
+- Classes and methods must be defined within a pair of curly braces.
+	
+	```java
+		public void go(){
+		//some code
+		}
+	```
