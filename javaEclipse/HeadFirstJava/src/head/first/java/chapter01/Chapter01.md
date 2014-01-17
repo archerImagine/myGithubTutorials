@@ -39,3 +39,10 @@ There are **three** standard looping constructs:
  2. **_for_**  
  3. **_do-while_**  
 The important ingredient to a loop is the *_conditional_* test.
+
+Bullet Point.
+--
+* The **assignment** operator uses *_one_* equals sign **=**.  
+* The **equals** operator uses *_two_* equals sign **==**.
+* A *while* loops runs everything within its block, as long as the *conditional* test is **true**.
+* If the *conditional* is **false**, the while loop code block won't run, and execution will move to the code immediately *after* the loop block.
