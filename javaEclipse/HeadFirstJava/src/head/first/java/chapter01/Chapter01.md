@@ -4,29 +4,24 @@ This is the first Chapter learning of **Head First Java** by **Kathy Sierra** an
 
 Syntax Fun:
 ---------
-- Each statement must end in a semi colon.
-
+- Each statement must end in a semi colon.  
   	```java
 		x = x + 1;
 	```
-- A single line comment begins with two forward slashes.
-
+- A single line comment begins with two forward slashes.  
 	```java
 		//this line is a comment
 	```	
-- Most white space doesn't matter.
-
+- Most white space doesn't matter.  
 	```java
 		x = x       +            1;
 	```	
-- Variables are declared with a **name** and a **type**.
-
+- Variables are declared with a **name** and a **type**.  
 	```java
 		int weight;
 		//type: int, name:weight
 	```
-- Classes and methods must be defined within a pair of curly braces.
-	
+- Classes and methods must be defined within a pair of curly braces. 	
 	```java
 		public void go(){
 		//some code
