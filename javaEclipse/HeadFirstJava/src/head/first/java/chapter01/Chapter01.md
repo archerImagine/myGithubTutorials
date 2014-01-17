@@ -1,7 +1,6 @@
 Head First Java Chapter 01
 =====
-This is the first Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, This markdown file is my notes for the first chapter, not sure if any copyright issues are there.
-
+This is the first Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, This markdown file is my notes for the first chapter, not sure if any copyright issues are there.  
 Syntax Fun:
 ---------
 - Each statement must end in a semi colon.  
@@ -27,3 +26,11 @@ Syntax Fun:
 		//some code
 		}
 	```
+
+Loops:-
+--
+There are **three** standard looping constructs:  
+ 1. **_while_**  
+ 2. **_for_**  
+ 3. **_do-while_**  
+The important ingredient to a loop is the *_conditional_* test.
