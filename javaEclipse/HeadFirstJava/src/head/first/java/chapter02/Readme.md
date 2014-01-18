@@ -1,6 +1,6 @@
 Head First Java Chapter 02
 =====
-This is the first Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, 
+This is the second Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, 
 This markdown file is my notes for the second chapter, not sure if any copyright issues are there.
 
 Procedural Programmer (PP) vs Object Oriented Programmer(OOP)
