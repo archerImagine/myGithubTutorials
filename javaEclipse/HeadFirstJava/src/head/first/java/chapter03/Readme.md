@@ -3,8 +3,6 @@ Head First Java Chapter 03
 This is the third Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, 
 This markdown file is my notes for the second chapter, not sure if any copyright issues are there.
 
-Start
---
 
 ###Declaring a variable
 * **Java cares about type.**, So for this **type safety** to work, you must declare the type of your variable.  
