@@ -16,4 +16,4 @@ Notes
 4. [Chapter 04](src/head/first/java/chapter04/Readme.md)
 5. [Chapter 05](src/head/first/java/chapter05/Readme.md)
 6. [Chapter 06](src/head/first/java/chapter06/Readme.md)
-7. [Chapter 06](src/head/first/java/chapter07/Readme.md)
+7. [Chapter 07](src/head/first/java/chapter07/Readme.md)
