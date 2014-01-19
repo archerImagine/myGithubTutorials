@@ -1,2 +1,10 @@
-/.metadata/
-/*.log
+.settings/
+.metadata/
+bin/
+*.project
+*.classpath
+*.gitignore
+*.md.html
+*.classpath
+*.log
+*.swp
