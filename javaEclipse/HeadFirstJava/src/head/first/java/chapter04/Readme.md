@@ -1,7 +1,7 @@
 Head First Java Chapter 04
 =====
 This is the fourth Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, 
-This markdown file is my notes for the second chapter, not sure if any copyright issues are there.
+This markdown file is my notes for the fourth chapter, not sure if any copyright issues are there.
 
 Bullet Points
 -

@@ -1,7 +1,7 @@
 Head First Java Chapter 05
 =
 This is the fifth Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, 
-This markdown file is my notes for the second chapter, not sure if any copyright issues are there.
+This markdown file is my notes for the fifth chapter, not sure if any copyright issues are there.
 
 ###Developing a Class.
 * Figure out what the class is supposed to do.

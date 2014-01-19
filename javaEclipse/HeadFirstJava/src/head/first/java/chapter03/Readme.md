@@ -1,7 +1,7 @@
 Head First Java Chapter 03
 =====
 This is the third Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, 
-This markdown file is my notes for the second chapter, not sure if any copyright issues are there.
+This markdown file is my notes for the third chapter, not sure if any copyright issues are there.
 
 
 ###Declaring a variable
