@@ -5,7 +5,6 @@
  */
 package head.first.java.chapter05;
 
-import java.util.Iterator;
 
 /**
  * @author ubuntu
