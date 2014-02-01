@@ -3,48 +3,48 @@ Head First Java Chapter 06
 This is the sixth Chapter learning of **Head First Java** by **Kathy Sierra** and **Bert Bates**, 
 This markdown file is my notes for the sixth chapter, not sure if any copyright issues are there.
 
-###ArrayList
-####Something you can do with Arraylist.
-#####Make one
+### ArrayList
+#### Something you can do with Arraylist.
+##### Make one
 ````java
 ArrayList<Egg> myList = new ArrayList<Egg>();
 ````
-#####Put something in it.  
+##### Put something in it.  
 ````java
 Egg s = new Egg();  
 myList.add(s);
 ```` 
-#####Put another thing in it.  
+##### Put another thing in it.  
 ````java
 Egg b = new Egg();  
 myList.add(b);
 ```` 
-#####Find out how many things are in it.  
+##### Find out how many things are in it.  
 ````java
 int theSize = myList.size();
 ```` 
-#####Find out if it contains something.  
+##### Find out if it contains something.  
 ````java
 boolean isIn = myList.contain(s);
 ```` 
-#####Find out where something is (i.e. its index)  
+##### Find out where something is (i.e. its index)  
 ````java
 boolean idx = myList.indexOf(b);  
 ```` 
-#####Find out if it's empty
+##### Find out if it's empty
 ````java
 boolean empty = myList.isEmpty();  
 ```` 
-#####Remove something from it.  
+##### Remove something from it.  
 ````java
 myList.remove(s);
 ````
-####ArrayList Vs Array.
+#### ArrayList Vs Array.
 * A plain old array has to know its size at the time it's created.
 * To put an object in a regular array, you must assign it to a specific location.
 * Arrays use array syntax that's not used anywhere else in java.
 * ArrayList in Java 5.0 are parameterized.
-####Boolean Expressions.
+#### Boolean Expressions.
 Here are the Boolean Expression Used.
 * **'And' and 'Or' Operators (&&, ||)**
 * **Not equals (!= and !)**

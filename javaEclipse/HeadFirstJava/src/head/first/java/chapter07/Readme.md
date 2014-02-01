@@ -14,19 +14,19 @@ BULLET POINTS
 * If a class extends A, and C extends B, class B IS-A class A, and class C IS-A class B, and Class C also IS-A class A.
 * Instance variable and Class has a HAS-A relationship.
 
-###Inheritance.
+### Inheritance.
 * Inheritance lets you guarantee that all classes grouped under a certain supertype have all the methods that the supertype has.
 * When you define a supertype for a group of classes, any subclass of that supertype can be substituted where the supertype is expected.  
 
-###Polymorphism.
+### Polymorphism.
 * With polymorphism, the reference type can be a superclass of the actual object type.
 * We can have polymorphic aguments and return type.(Write the method arguments as a superclass type, and you can pass any subclass object at the runtime.)
 
-###Rules of overriding.
+### Rules of overriding.
 * Arguments must be the same, and return types must be compatible.
 * The method can't be less accessible.
 
-###Overloading.
+### Overloading.
 * Method overloading is nothing more than having two methods with the same name and different argument list.
  * The return type can be different.
  * You can't change only the return type.
