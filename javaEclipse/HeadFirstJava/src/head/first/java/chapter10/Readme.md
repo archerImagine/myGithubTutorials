@@ -26,3 +26,9 @@ static{
 * Assigning a value to a *final* instance variable must be either at the time it is declared, or in the constructor.
 * A final method cannot be overridden.
 * A final class cannot be extended.
+
+### Static Imports
+* If you're going to use a static member a few times, we think you should avoid static imports, to help keep the code more readable.
+* If you're going to use a static member a lot, then it is probably OK to use the static imports.
+* Notice that you can use wildcards (*), in your static import declaration.
+* A big issue with static imports is that it's not too hard to create naming conflicts.
