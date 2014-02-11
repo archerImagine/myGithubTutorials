@@ -17,7 +17,7 @@ Layout Manager
 ````
 
 * With BorderLayout, components in the north and south get their preferred height, but not width. Components in the east and west get their preferred width, but not height. The component in the center gets whatever is left over(unless you use **pack()**).
-* The pack() method is like shrink-wrap for the components; it uses the full preffered size of the center component, then determines the size of the frame using the center as a starting point, building the rest based on what's in the other regions.
+* The pack() method is like shrink-wrap for the components; it uses the full preferred size of the center component, then determines the size of the frame using the center as a starting point, building the rest based on what's in the other regions.
 * FlowLayout places components left to right, top to bottom, in the order they were added, wrapping to a new line of components only when the components won't fit horizontally.
 * FlowLayout gives components their preferred size in both dimensions.
 * BoxLayout lets you align components stacked vertically, even if they could fit side-by-side. Like FlowLayout, BoxLayout uses the preferred size of the component in both dimensions.
