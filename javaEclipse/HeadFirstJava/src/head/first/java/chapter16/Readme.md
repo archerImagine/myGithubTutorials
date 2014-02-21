@@ -84,7 +84,7 @@ Collections with Generics
   1. **LIST** : **Where sequence matters.**
   2. **SET** : **Where uniqueness matters.**
   3. **MAP** : **Where finding something by key matters.**
-    * Map interface doesn't actually extend the Collection interface.
+    1. Map interface doesn't actually extend the Collection interface.
 #### Object Equality
 * There are two type of Equality.
   1. Reference Equality
